@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
