@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3548-find-the-count-of-good-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3548-find-the-count-of-good-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
