@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/0038-count-and-say) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
