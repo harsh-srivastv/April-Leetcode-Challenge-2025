@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/0368-largest-divisible-subset) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2626-count-the-number-of-good-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
